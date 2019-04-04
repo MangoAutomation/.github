@@ -42,3 +42,6 @@ Add any other context about the problem here.
 
 **Browser console errors**
 - If the issue is with the web interface then check the development console
+
+**Minimal code example to reproduce**
+- If possible please provide a minimal code example, this will expedite the process of identifying and fixing the problem.
