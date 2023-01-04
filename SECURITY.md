@@ -1,7 +1,5 @@
-# Security Policy
-
-## Reporting a Vulnerability
-
-This repository uses Dependabot to periodically check dependencies for potential security issues. 
-If you want to manually report a potential security issue in this repository, please send an email to: 
-securityteam@radixiot.com
+# Security policy
+## Reporting a vulnerability
+This repository utilizes Dependabot to scan for dependencies with vulnerabilities.
+However, if you find any security vulnerabilities or have a concern, please send
+an email to `securityteam AT radixiot.com`.
